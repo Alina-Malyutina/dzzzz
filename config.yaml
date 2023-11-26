@@ -1,0 +1,11 @@
+folder_in: /home/alina/tst
+folder_out: /home/alina/out
+folder_ext: /home/alina/folder1
+folder_ext2: /home/alina/folder2
+count: 5
+bs: 1M
+type: zip
+ip: 0.0.0.0
+user: alina
+password: 1231
+valid: Everything is Ok
